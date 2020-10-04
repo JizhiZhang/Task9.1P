@@ -1,0 +1,14 @@
+.row{
+    margin-left: 300px;
+    width:960px;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap; 
+	justify-content:center;
+	align-items: flex-start;
+}
+.column{
+    width:300px;
+    padding: 5px;
+    float:left;
+}
